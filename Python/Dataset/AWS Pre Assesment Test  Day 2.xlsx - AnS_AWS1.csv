@@ -1,0 +1,33 @@
+MCQ,,,,,,,SUB,
+Sno ,Ans,,,,,,Sno ,Ans
+,,,,,,,,
+1, Infrastructure as a Service ,,,,,,1,1
+2,S3,,,,,,2,dont Know
+3,IAM,,,,,,,
+4,Availability Zones,,,,,,,
+5,Reserved Instances,,,,,,,
+6,Route 53,,,,,,,
+7,EBS,,,,,,,
+8,Control inbound/outbound traffic at instance leve,,,,,,,
+9,Lambda,,,,,,,
+10,On-demand scalable resources,,,,,,,
+11,Automatically adjust compute capacity,,,,,,,
+12,RDS,,,,,,,
+13,"NACL is stateless, SG is stateful",,,,,,,
+14,Traffic distribution across instances,,,,,,,
+15,CloudWatch,,,,,,,
+16,DynamoDB,,,,,,,
+17,Create isolated network environment,,,,,,,
+18,Fault-tolerant flexible workloads,,,,,,,
+19,Security is shared between AWS and customer,,,,,,,
+20,CDN & content delivery,,,,,,,
+21,Load Balancer + Auto Scaling + Multi-AZ setup,,,,,,,
+22,Private subnet + Security Groups,,,,,,,
+23,Expected: Auto Scaling + ELB,,,,,,,
+24,evaluate architectural,,,,,,,
+25,Block Public Access + IAM policy correction,,,,,,,
+26,"VPC Public & Private subnets, EC2,RDS,Load Balancer,Auto Scaling
+
+",,,,,,,
+27,"IAM roles MFA Security Groups,NACL,CloudTrail,Encryption
+",,,,,,,

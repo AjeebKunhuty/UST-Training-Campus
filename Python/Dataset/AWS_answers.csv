@@ -1,0 +1,28 @@
+Qno,Question,Answer
+1,What is the primary benefit of Multi-AZ deployment in AWS?,Improved availability and fault tolerance
+2,Which AWS service allows you to run containers without managing servers?,AWS Fargate
+3,Which storage class is best for long-term archival with retrieval time of hours?,S3 Glacier Flexible Retrieval
+4,Which service helps you centrally manage multiple AWS accounts?,AWS Organizations
+5,What is the main function of AWS CloudTrail?,Log API activity for auditing
+6,Which architecture design improves resilience against AZ failure?,Multi-AZ with Load Balancer
+7,What is the purpose of NAT Gateway in VPC?,Allow private subnet instances to access internet
+8,Which AWS service provides infrastructure as code?,CloudFormation
+9,What is the benefit of Savings Plans over On-Demand pricing?,Lower compute cost with usage commitment
+10,Which AWS service is best suited for real-time streaming data ingestion?,Kinesis
+11,What is the difference between IAM Role and IAM User?,Role is assumed temporarily; user is permanent identity
+12,Which AWS service detects security threats using machine learning?,GuardDuty
+13,Which service protects against DDoS attacks?,Shield
+14,Which VPC component controls subnet-level traffic?,NACL
+15,What is the purpose of AWS Config?,Track resource configuration changes
+16,Which practice helps reduce EC2 cost in non-production environments?,Schedule start/stop automation
+17,Which service allows private connection between on-premises and AWS?,AWS Direct Connect
+18,What is the purpose of AWS WAF?,Filter malicious web traffic
+19,Your company wants a highly available web application with auto scaling and database replication. Describe the high-level architecture.,
+20,An application running in private subnet cannot access internet updates. What components would you verify?,
+21,A sudden spike in cost occurred this month. How would you investigate and optimize?,
+22,Design a disaster recovery strategy for critical workloads in another AWS region.,
+23,How would you implement least privilege access across multiple teams?,
+24,Design a secure 3-tier architecture for an enterprise web application in AWS.,
+25,"If your application needs to process millions of events per second, what AWS services would you use and why?",
+26,Explain how you would monitor performance and health of production workloads.,
+27,Which approach improves cost efficiency for unpredictable workloads?,Spot Instances

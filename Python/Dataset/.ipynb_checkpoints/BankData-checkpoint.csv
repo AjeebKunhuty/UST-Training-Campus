@@ -1,0 +1,79 @@
+Bank_Name,Card_Name,Annual_Fee,Grocery_Cashback,Travel_Cashback,Dining_Cashback,Min_Income_Required,Limit,Grocery_Discount,Travel_Discount,Dining_Discount,Reward_Points,Review_InPoints,CardType,Lounge_access,Total_Cashback
+ICICI,platinum ship credit card,0,1.5,2,15,300000,60000,1,8,15,0.02,4.5,credit,0,18.5
+ICICI,Amazon pay icici card,0,3,5,3,300000,100000,3,5,10,0,4,credit,0,11
+ICICI,Coral Credit Card,500,5,10,20,500000,80000,5,10,20,0.02,4,credit,2,35
+IDFC,Millennia,0,1,0,0,300000,125000,0,0,0,150,1.5,credit,5,1
+IDFC,First Classic,0,0,0,0,500000,150000,0,0,0,3,2.5,credit,6,0
+IDFC,WOW ! Black,750,3,3,3,500000,80000,0,0,0,3,2.5,credit,4,9
+IDFC,First Select,0,1,0,1,1200000,150000,0,0,0,3,3,credit,6,2
+IDFC,Ace,499,2,1,2,300000,75000,1,1,1,0,4,credit,0,5
+IDFC,Republic Day,0,3,2,3,200000,50000,0,0,0,0,3.5,credit,4,8
+PNB,Global Platinum,750,5,3,3,500000,1000000,3,5,4,150,3.5,credit,8,11
+PNB,Global Gold,500,5,5,5,350000,80000,5,5,5,100,3.5,credit,2,15
+PNB,Global Classic,0,4,5,3,250000,80000,4,5,3,50,3,credit,0,12
+PNB,Millennial,399,4,3,4,300000,400000,4,3,4,100,3.3,credit,2,11
+PNB,Patanjali RuPay,0,4,4,5,100000,80000,5,3,4,150,3.2,credit,0,13
+PNB,RuPay Select,200,2,2,2,0,50000,2,2,2,0,3.2,debit,,6
+IDBI ,IDBI Delight Credit Card,500,5,10,15,240000,60000,5,10,15,1,3.5,credit,0,30
+IDBI ,Royale Signature card,2500,1,5,15,900000,300000,1,5,15,2,4,credit,4,21
+IDBI ,IDBI Euphoria World card,5000,1,5,0,900000,400000,1,5,15,2,,credit,,6
+SBI,Cashback SBI Card,999,5,5,5,300000,100000,0,0,0,0,4.5,Credit,4,15
+SBI,SimplyCLICK SBI Card,499,0,0,0,240000,60000,0,0,0,0.01,4.2,Credit,0,0
+SBI,SimplySAVE SBI Card,499,0,0,0,"240,000","60,000",0,0,0,0.0067,4,Credit,0,0
+SBI,SBI Card Prime,2999,0,0,0,500000,100000,0,0,0,0.02,4.3,Credit,12,0
+SBI,SBI Card ELITE,4999,0,0,0,600000,150000,0,0,0,0.02,4.1,Credit,14,0
+SBI,IRCTC SBI Card Platinum,500,0,10,0,240000,50000,0,0,0,0.008,3.8,Credit,0,10
+SBI,SBI Global International Debit Card,200,0,0,0,0,2250000,0,0,0,0.01,3.5,Debit,0,0
+SBI,SBI Platinum International Debit Card,300,0,0,0,0,6000000,0,0,0,0.01,4,Debit,4,0
+Bank of Baroda,HPCL Credit Card,499,10,15,0,480000,100000,0,0,0,2,4,Credit,4,25
+Bank of Baroda,IRCTC Credit Card,500,10,15,0,480000,100000,0,0,0,2,4,Credit,4,25
+Bank of Baroda,Prime Credit Card,0,10,15,0,15000,100000,0,0,0,2,4,Credit,0,25
+Canara Bank,VISA Classic Credit Card,0,1,1,1,150000,20000,2,2,10,2,4.2,Credit,2,3
+Canara Bank,MasterCard Standard,0,1,1,1,150000,20000,2,2,15,3,4,Credit,2,3
+Canara Bank,RuPay Platinum Credit Card,0,2,2,2,200000,40000,5,5,10,5,4.3,Credit,5,6
+Canara Bank,Canara Gold Credit Card,250,2,2,2,300000,50000,5,5,15,5,4.6,Credit,5,6
+Canara Bank,RuPay Debit Card,0,2,1,1,0,50000,5,2,5,1,3.8,Debit,2,4
+Canara Bank,VISA Debit Card,0,1,1,1,0,50000,2,2,5,1,3.7,Debit,2,3
+Canara Bank,MasterCard Debit Card,0,1,1,1,0,50000,2,2,7,2,3.9,Debit,2,3
+Canara Bank,EMV Chip Debit Card,0,1,1,1,0,50000,2,2,5,1,3.6,Debit,2,3
+Axis Bank,Axis Bank ACE Credit Card,499,0,5,4,400000,75000,0,0,15,0,4.3,credit,4,9
+Axis Bank,Axis Bank Neo Credit Card,250,0,0,10,"300,000",50000,0,0,10,200,4.1,credit,0,10
+Axis Bank,Axis Bank Cashback Credit Card,1000,0,7.5,0,500000,100000,0,0,0,0,4.2,credit,0,7.5
+Axis Bank,Airtel Axis Bank Credit Card,500,0,1,10,350000,60000,0,1,25,0,4.4,credit,4,11
+Axis Bank,Flipkart Axis Bank Credit Card,500,0,1.5,1.5,350000,60000,0,0,0,5,4.5,credit,4,3
+Axis Bank,Axis Bank MyZone Credit Card,500,0,1,0,300000,50000,0,0,20,1,4.1,credit,4,1
+Axis Bank,Axis Bank Delight Debit Card,0,0,0,25,0,0,0,0,25,0,4,Debit,4,25
+Axis Bank,Axis Bank Value+ Debit Card,0,5,0,0,0,0,5,0,10,0,3.8,Debit,0,5
+Axis Bank,Axis Bank Titanium Rewards Debit Card,0,0,0,10,0,0,0,0,10,1,3.9,Debit,0,10
+Axis Bank,Axis Bank Platinum Debit Card,0,0,0,5,0,0,0,0,5,1,3.8,Debit,0,5
+HDFC Bank,Milllennia,1000,1,5,10,1000,200000,0,5,10,5,4,credit ,,16
+HDFC Bank,Swiggy,500,5,6,10,1500,150000,0,6,10,5,0,credit ,,21
+HDFC Bank,Moneyback plus,500,1,1,1,1000,100000,0,1,1,2,0,credit ,,3
+HDFC Bank,Freedom,500,1,5,10,1000,100000,0,5,10,10,0,credit ,,16
+HDFC Bank,Regaligold,2500,1,5,5,2000,500000,0,5,5,4,12,credit ,,11
+HDFC Bank,Diners Club Privilege,1000,1,1,5,2000,500000,0,1,5,4,8,credit ,,7
+HDFC Bank,Diners Club Black Metal,10000,0,10,2,5000,1000000,0,10,2,10,99,credit ,,12
+HDFC Bank,Infinia Metal,12500,0,10,5,5000,1500000,0,10,5,10,99,credit ,,15
+HDFC Bank,Classic Platinum,0,0.5,0,0.5,0,500000,0,0,0,0.5,,Debit ,8,1
+HDFC Bank,Platinum Debit,0,0.5,0,0.5,0,500000,0,0,0,0.5,,Debit ,8,1
+HDFC Bank,Preferred Platinum,0,0.5,0,0.5,0,500000,0,0,0,0.5,,Debit ,8,1
+HDFC Bank,Millennia Debit,500,2.5,2.5,2.5,0,500000,0,0,0,1,,Debit ,4,7.5
+HDFC Bank,MoneyBack Debit,300,1,0,0,0,300000,0,0,0,1,,Debit ,0,1
+HDFC Bank,Rewards Debit,500,1,0,0,0,350000,0,0,0,1.33,,Debit ,0,1
+HDFC Bank,Vishesh Debit,0,0.5,0,0.5,0,500000,0,0,0,0.51,,Debit ,8,1
+HDFC Bank,Giga Business,350,1.5,1.5,1.5,0,500000,0,0,0,1,,Debit ,4,4.5
+Federal Bank,Visa Celesta,0,0,0,0,600000,50000,10,10,10,1,4.5,Credit,2,0
+Federal Bank,Visa Imperio,0,0,0,0,1000000,200000,10,10,10,2,4.5,Credit,6,0
+Federal Bank,Visa Signet,0,0,0,0,300000,50000,10,10,10,1,3.5,Credit,2,0
+Federal Bank,Mastercard Celesta,0,0,0,0,600000,50000,10,10,10,1,4,Credit,2,0
+Federal Bank,Mastercard Imperio,0,0,0,0,1000000,200000,10,10,10,2,4.5,Credit,6,0
+Federal Bank,Mastercard Signet,0,0,0,0,300000,50000,10,10,10,1,3.5,Credit,2,0
+Federal Bank,Rupay Signet,0,0,0,0,300000,50000,10,10,10,1,,Credit,1,0
+Federal Bank,Rupay Wave,0,0,0,0,400000,50000,10,10,10,1,3,Credit,1,0
+Kotak Mahindra Bank,League Platinum Credit Card,499,0,0,0,300000,300000,0,0,0,5,4,Credit,0,0
+Kotak Mahindra Bank,Kotak Cashback+ Credit Card,750,5,0,5,300000,400000,0,0,0,0,4.2,Credit,0,10
+Kotak Mahindra Bank,IndianOil Kotak Credit Card,449,2,0,0,250000,300000,5,0,0,2,4.2,Credit,0,2
+Kotak Mahindra Bank,Zen Signature Credit Card,1500,0,0,0,500000,600000,0,0,0,6,4,Credit,2,0
+Kotak Mahindra Bank,Kotak Air Credit Card,999,0,3,0,400000,500000,0,0,0,3,4.1,Credit,4,3
+Kotak Mahindra Bank,PVR INOX Kotak Credit Card,499,0,0,5,250000,200000,0,0,20,0,4.1,Credit,0,5
+Kotak Mahindra Bank,Kotak UPI RuPay Credit Card,0,0,0,0,250000,300000,0,0,0,3,3.9,Credit,0,0
